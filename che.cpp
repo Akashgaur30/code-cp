@@ -9,7 +9,7 @@ int main()
     {
         int A, B, X, Q ,P;
         cin >>A>>B>>X>>Q;
-        P=(X/A)+(Q/B)
+        P=(X/A)+(Q/B);
             cout<<P<<endl;
     }
     return 0;
